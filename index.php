@@ -13,7 +13,7 @@ require ('header.php');
   <main>
     <!-- Contenu principal -->
     <center>
-  <h1>Vous cherchez un co-voiturage ? </h1>
+  <h1>Vous cherchez un co-voiturage ? Test</h1>
   <h1> Nous avons ce qu'il vous faut !</h1>
   <br>
   <div id="gridimage">
